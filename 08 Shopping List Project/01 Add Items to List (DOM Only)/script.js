@@ -30,7 +30,7 @@ function addItem(e) {
     li.appendChild(button);
 
     itemList.appendChild(li);
-
+    
     itemInput.value = '';
 }
 
