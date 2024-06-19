@@ -1,0 +1,1 @@
+// A special environment created in the JavaScript engine browser. This special environment includes the currently running code and everything that aids in its execution. When it's first created it's called the global execution context. Any function has it's own execution context that lasts for the span of the function.
